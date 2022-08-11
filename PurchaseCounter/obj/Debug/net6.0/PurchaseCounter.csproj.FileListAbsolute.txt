@@ -1,0 +1,15 @@
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\bin\Debug\net6.0\PurchaseCounter.deps.json
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\bin\Debug\net6.0\PurchaseCounter.dll
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\bin\Debug\net6.0\PurchaseCounter.pdb
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\bin\Debug\net6.0\GroceryDataBase.dll
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\bin\Debug\net6.0\GroceryDataBase.pdb
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\obj\Debug\net6.0\PurchaseCounter.csproj.AssemblyReference.cache
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\obj\Debug\net6.0\PurchaseCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\obj\Debug\net6.0\PurchaseCounter.AssemblyInfoInputs.cache
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\obj\Debug\net6.0\PurchaseCounter.AssemblyInfo.cs
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\obj\Debug\net6.0\PurchaseCounter.csproj.CoreCompileInputs.cache
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\obj\Debug\net6.0\PurchaseCounter.csproj.CopyComplete
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\obj\Debug\net6.0\PurchaseCounter.dll
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\obj\Debug\net6.0\refint\PurchaseCounter.dll
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\obj\Debug\net6.0\PurchaseCounter.pdb
+C:\Users\X6HSADUM\Documents\Azure Training\Assignment-1\PurchaseInvoice\PurchaseCounter\obj\Debug\net6.0\ref\PurchaseCounter.dll

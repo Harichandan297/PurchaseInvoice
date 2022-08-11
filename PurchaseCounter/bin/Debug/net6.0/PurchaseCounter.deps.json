@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PurchaseCounter/1.0.0": {
+        "dependencies": {
+          "GroceryDataBase": "1.0.0"
+        },
+        "runtime": {
+          "PurchaseCounter.dll": {}
+        }
+      },
+      "GroceryDataBase/1.0.0": {
+        "runtime": {
+          "GroceryDataBase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PurchaseCounter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GroceryDataBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
